@@ -9,7 +9,7 @@ American Sign Language is a natural language that serves as the predominant sign
 The dataset that I have used is [MNIST Sign Language dataset](https://www.kaggle.com/datasets/datamunge/sign-language-mnist) from Kaggle where the images are 28×28 grayscale images. The data is stored in .csv format and has 784 pixel value columns from 0 to 255 and 1 label column ranging from 0-25(A-Y)
 
 ### Model
-The model that I created is a simple Convolutional Neural Network using Tensorflow library. It is a sequential model using a couple of convolutions followed by a MaxPool.
+The model that I created is a simple Convolutional Neural Network using Tensorflow library. It is a sequential model using a couple of convolutions followed by a MaxPool. The model reaches a validation accuracy of around 95%.
 
 ![image](https://github.com/Soham-Wadekar/ASL-Classifier/assets/108048367/fd053b2c-cb9e-497e-9f27-0272596bc8b8)
 
