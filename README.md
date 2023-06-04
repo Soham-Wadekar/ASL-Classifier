@@ -14,4 +14,4 @@ The model that I created is a simple Convolutional Neural Network using Tensorfl
 ![image](https://github.com/Soham-Wadekar/ASL-Classifier/assets/108048367/fd053b2c-cb9e-497e-9f27-0272596bc8b8)
 
 ### In this repository
-In this repository, I have included the code, the model that I have built and also the dataset for those who want to implement the code for themselves. Additionally, in the code, I have created the feature to upload your own image and test it out for yourself.
+In this repository, I have included the code, the model that I have built for those who want to implement the code for themselves. The dataset is included in the README.md file itself, above in the dataset section. Additionally, in the code, I have created the feature to upload your own image and test it out for yourself.
